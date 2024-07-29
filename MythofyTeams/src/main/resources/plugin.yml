@@ -1,9 +1,0 @@
-name: MythofyTeams
-version: '${project.version}'
-main: org.mythofy.mythofyteams.MythofyTeams
-api-version: '1.20'
-commands:
-  team:
-    description: Team commands
-    usage: /team <create|invite|leave|chat>
-    aliases: [t]
