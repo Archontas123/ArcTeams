@@ -1,0 +1,16 @@
+teams:
+# Example team structure
+# team_name:
+#   tag: "TAG"
+#   owner: "owner_name"
+#   members:
+#     - "member_name_1"
+#     - "member_name_2"
+#   allies:
+#     - "ally_team_name_1"
+#     - "ally_team_name_2"
+#   enemies:
+#     - "enemy_team_name_1"
+#     - "enemy_team_name_2"
+#   pvpEnabled: true
+#   allyPvpEnabled: true
